@@ -1,1 +1,2 @@
 - coba membuat upload data otomatis ke server
+- mencari cara mengubah opacity circle secara keseluruhan
