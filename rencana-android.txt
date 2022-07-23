@@ -1,0 +1,2 @@
+rencana android
+1. membuat auto upload
